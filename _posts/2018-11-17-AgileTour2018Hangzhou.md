@@ -141,7 +141,7 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg)
 
-![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/Tsinghua.jpg)
+![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/TsinghuaUniversityPress.jpg)
 
 ![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="25%" width="25%"}
 
