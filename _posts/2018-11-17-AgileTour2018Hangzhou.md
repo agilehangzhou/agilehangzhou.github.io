@@ -1,7 +1,7 @@
 ---
 title: AgileTour2018Hangzhou
 key: 20181117
-tags: 敏捷之旅, AgileTour, Event
+tags: 敏捷之旅 AgileTour Event
 ---
 ![AgileTour 2018 Hangzhou]({{ site.baseurl }}/assets/images/posts/2018/agiletour2018.png)
 
