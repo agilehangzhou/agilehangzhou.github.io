@@ -139,11 +139,11 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 [![Worktile]({{ site.baseurl }}/assets/images/posts/sponsors/Worktile.png){:height="50%" width="50%"}](https://worktile.com){:target="_blank"}
 
-[![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg){:height="25%" width="25%"}](){:target="_blank"}
+[![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg){:height="25%" width="25%"}](http://www.ptpress.com.cn/){:target="_blank"}
 
 [![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/TsinghuaUniversityPress.jpg){:height="50%" width="50%"}](http://www.tup.tsinghua.edu.cn){:target="_blank"}
 
-[![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="40%" width="40%"}](){:target="_blank"}
+[![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="40%" width="40%"}](http://www.steam001.com){:target="_blank"}
 
 ### 铜牌赞助商
 
