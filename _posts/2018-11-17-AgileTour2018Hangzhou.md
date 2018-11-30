@@ -133,7 +133,7 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ### 银牌赞助商
 
-![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png){:height="50%" width="50%"}
+[![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png){:height="50%" width="50%"}](http://www.perficient.com)
 
 ![优普丰]({{ site.baseurl }}/assets/images/posts/sponsors/UPerform.jpg){:height="50%" width="50%"}
 
