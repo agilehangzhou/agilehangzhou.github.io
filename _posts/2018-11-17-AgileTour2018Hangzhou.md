@@ -40,7 +40,9 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ![蔡春华-4个迭代]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-133143.jpg)
 
-### [赵成 - 蘑菇街SRE实践]()
+### 赵成 - 蘑菇街SRE实践
+
+> 该session的slides在12月底另外一个演讲之后再公开
 
 ### [王明兰 - 用系统思考屋避开转型的那些陷阱](https://eyun.baidu.com/s/3kW6Dvwj)
 
@@ -86,22 +88,68 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ### [张杨，吴恩平，王峥慧，周亮 -系统思考借你一双慧眼](https://eyun.baidu.com/s/3pMQiapX)
 
-### [周峰，张扬，陈高翔 - 玩转产品级全员计划会议]()
+### 周峰，张扬，陈高翔 - 玩转产品级全员计划会议
 
-### [骆俊 - 跨越阻隔，与抗拒共舞]()
+> 该工作坊的Slides有License，无法提供下载
+
+### 骆俊 - 跨越阻隔，与抗拒共舞 
+> 该工作坊没有slides
+
 ![]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-150810.jpg)
 
-### [赵宏 - 教练技术]()
+### 赵宏 - 教练技术
+
+> 该工作坊没有slides
 
 ![赵宏-教练技术]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-150332.jpg)
 
+## 其他照片
 
-![签到]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-084626.jpg)
+![签到]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-084626.jpg "签到")
 
-![王明兰签售]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-125912.jpg)
+![王明兰签售]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-125912.jpg "王明兰签售")
 
-![茶歇]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-133550.jpg)
+![茶歇]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-133550.jpg "茶歇") 
 
-![听讲01]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-094002.jpg)
+![听讲01]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-094002.jpg "认真听讲01")
 
-![听讲02]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-092545.jpg)
+![听讲02]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-092545.jpg "认真听讲02")
+
+## 赞助商
+
+### 金牌赞助商及场地赞助商
+
+![Nokia上海贝尔]({{ site.baseurl }}/assets/images/posts/sponsors/NSB.jpg)
+
+![招银科技]({{ site.baseurl }}/assets/images/posts/sponsors/cmbnt.png)
+
+### 银牌赞助商
+
+![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png)
+
+![优普丰]({{ site.baseurl }}/assets/images/posts/sponsors/UPerform.jpg)
+
+![Worktile]({{ site.baseurl }}/assets/images/posts/sponsors/Worktile.png)
+
+![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg)
+
+![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/Tsinghua.jpg)
+
+![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg)
+
+### 铜牌赞助商
+
+![Leangoo]({{ site.baseurl }}/assets/images/posts/sponsors/leangoo.jpg)
+
+## 志愿者
+- 程爽 @ 招银网络科技
+- 唐烨 @ 招银网络科技
+- 林芝 @ 招银网络科技
+- 钟天云 @ 招银网络科技
+- 苏妮 @ 招银网络科技
+- 暮炎胥 @ 招银网络科技
+- 梁青霜 @ 恒生电子
+- 杨建栋 @ Nokia上海贝尔杭州研发中心
+- 彭能 @ Nokia上海贝尔杭州研发中心
+- 钟乐 @ Nokia上海贝尔杭州研发中心
+- 陈学凯 @ Nokia上海贝尔杭州研发中心
