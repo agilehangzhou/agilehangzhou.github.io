@@ -129,21 +129,21 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ![Nokia上海贝尔]({{ site.baseurl }}/assets/images/posts/sponsors/NSB.jpg)
 
-![招银科技]({{ site.baseurl }}/assets/images/posts/sponsors/cmbnt.png)
+![招银科技]({{ site.baseurl }}/assets/images/posts/sponsors/cmbnt.png){:height="75%" width="75%"}
 
 ### 银牌赞助商
 
-![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png)
+![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png){:height="50%" width="50%"}
 
-![优普丰]({{ site.baseurl }}/assets/images/posts/sponsors/UPerform.jpg)
+![优普丰]({{ site.baseurl }}/assets/images/posts/sponsors/UPerform.jpg){:height="50%" width="50%"}
 
-![Worktile]({{ site.baseurl }}/assets/images/posts/sponsors/Worktile.png)
+![Worktile]({{ site.baseurl }}/assets/images/posts/sponsors/Worktile.png){:height="50%" width="50%"}
 
-![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg)
+![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg){:height="25%" width="25%"}
 
-![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/TsinghuaUniversityPress.jpg)
+![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/TsinghuaUniversityPress.jpg){:height="50%" width="50%"}
 
-![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="25%" width="25%"}
+![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="40%" width="40%"}
 
 ### 铜牌赞助商
 
