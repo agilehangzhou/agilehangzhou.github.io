@@ -105,15 +105,23 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ## 其他照片
 
-![签到]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-084626.jpg "签到")
+- 签到
 
-![王明兰签售]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-125912.jpg "王明兰签售")
+![签到]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-084626.jpg)
 
-![茶歇]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-133550.jpg "茶歇") 
+- 王明兰签售
 
-![听讲01]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-094002.jpg "认真听讲01")
+![王明兰签售]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-125912.jpg)
 
-![听讲02]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-092545.jpg "认真听讲02")
+- 茶歇
+
+![茶歇]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-133550.jpg) 
+
+- 认真听讲
+
+![听讲01]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-094002.jpg)
+
+![听讲02]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-092545.jpg)
 
 ## 赞助商
 
@@ -135,7 +143,7 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/Tsinghua.jpg)
 
-![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg)
+![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="25%" width="25%"}
 
 ### 铜牌赞助商
 
@@ -153,3 +161,5 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 - 彭能 @ Nokia上海贝尔杭州研发中心
 - 钟乐 @ Nokia上海贝尔杭州研发中心
 - 陈学凯 @ Nokia上海贝尔杭州研发中心
+- 朱贝贝 @ 网易杭州 
+- 潘炜玮 @ 微策略
