@@ -127,27 +127,27 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ### 金牌赞助商及场地赞助商
 
-![Nokia上海贝尔]({{ site.baseurl }}/assets/images/posts/sponsors/NSB.jpg)
+[![Nokia上海贝尔]({{ site.baseurl }}/assets/images/posts/sponsors/NSB.jpg)](http://www.nokia-sbell.com){:target="_blank"}
 
-![招银科技]({{ site.baseurl }}/assets/images/posts/sponsors/cmbnt.png){:height="75%" width="75%"}
+[![招银科技]({{ site.baseurl }}/assets/images/posts/sponsors/cmbnt.png){:height="75%" width="75%"}](http://cmbnt.cmbchina.com){:target="_blank"}
 
 ### 银牌赞助商
 
-[![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png){:height="50%" width="50%"}](http://www.perficient.com)
+[![博克软件]({{ site.baseurl }}/assets/images/posts/sponsors/Perficient.png){:height="50%" width="50%"}](http://www.perficient.com){:target="_blank"}
 
-![优普丰]({{ site.baseurl }}/assets/images/posts/sponsors/UPerform.jpg){:height="50%" width="50%"}
+[![优普丰]({{ site.baseurl }}/assets/images/posts/sponsors/UPerform.jpg){:height="50%" width="50%"}](https://www.uperform.cn){:target="_blank"}
 
-![Worktile]({{ site.baseurl }}/assets/images/posts/sponsors/Worktile.png){:height="50%" width="50%"}
+[![Worktile]({{ site.baseurl }}/assets/images/posts/sponsors/Worktile.png){:height="50%" width="50%"}](https://worktile.com){:target="_blank"}
 
-![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg){:height="25%" width="25%"}
+[![普华文化]({{ site.baseurl }}/assets/images/posts/sponsors/puhua.jpg){:height="25%" width="25%"}](){:target="_blank"}
 
-![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/TsinghuaUniversityPress.jpg){:height="50%" width="50%"}
+[![清华出版社]({{ site.baseurl }}/assets/images/posts/sponsors/TsinghuaUniversityPress.jpg){:height="50%" width="50%"}](http://www.tup.tsinghua.edu.cn){:target="_blank"}
 
-![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="40%" width="40%"}
+[![玩物星球]({{ site.baseurl }}/assets/images/posts/sponsors/maker_planets.jpg){:height="40%" width="40%"}](){:target="_blank"}
 
 ### 铜牌赞助商
 
-![Leangoo]({{ site.baseurl }}/assets/images/posts/sponsors/leangoo.jpg)
+[![Leangoo]({{ site.baseurl }}/assets/images/posts/sponsors/leangoo.jpg)](https://www.leangoo.com){:target="_blank"}
 
 ## 志愿者
 - 程爽 @ 招银网络科技
