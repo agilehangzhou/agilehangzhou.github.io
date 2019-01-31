@@ -40,9 +40,7 @@ Nokia上海贝尔杭州研发中心总经理Lucy为大会致开幕辞。
 
 ![蔡春华-4个迭代]({{ site.baseurl }}/assets/images/posts/2018/AgileTour2018Hangzhou-20181117-133143.jpg)
 
-### 赵成 - 蘑菇街SRE实践
-
-> 该session的slides在12月底另外一个演讲之后再公开
+### [赵成 - 蘑菇街SRE实践](https://eyun.baidu.com/s/3c3sJkKK)
 
 ### [王明兰 - 用系统思考屋避开转型的那些陷阱](https://eyun.baidu.com/s/3kW6Dvwj)
 
