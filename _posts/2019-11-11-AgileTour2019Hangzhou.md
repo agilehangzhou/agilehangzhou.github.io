@@ -11,7 +11,7 @@ tags: 敏捷之旅 AgileTour Event
 
 ## 日程
 
-1. 参会者自组织形成团队([参考LeSS会议的自组织团队]（https://less.works/sessions/2019-less-conference-munich-introducing-team-based-conference-approach-and-forming-the-teams-116))
+1. 参会者自组织形成团队([参考LeSS会议的自组织团队](https://less.works/sessions/2019-less-conference-munich-introducing-team-based-conference-approach-and-forming-the-teams-116))
 1. Open Space
 1. 参会团队分享
 1. 工作坊
