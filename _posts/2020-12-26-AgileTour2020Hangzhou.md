@@ -25,9 +25,11 @@ tags: 敏捷之旅 AgileTour Event
 
 ![智止&张刚]({{ site.baseurl }}/assets/images/posts/2020/AgileTour/吴张-2.jpg)
 
-![侯伯薇&王晶]({{ site.baseurl }}/assets/images/posts/2020/AgileTour/侯王-2.jpg)
+![王晶]({{ site.baseurl }}/assets/images/posts/2020/AgileTour/王晶-2.jpg)
 
 ![李卫红]({{ site.baseurl }}/assets/images/posts/2020/AgileTour/李卫红-2.jpg)
+
+![姚林霞&王莉婧]({{ site.baseurl }}/assets/images/posts/2020/AgileTour/姚王-2.jpg)
 
 ## 特约场地赞助商
 
