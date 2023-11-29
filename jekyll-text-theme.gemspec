@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-text-theme"
-  spec.version       = "2.1.0"
+  spec.version       = "2.2.6"
   spec.authors       = ["kitian616"]
   spec.email         = ["kitian616@outlook.com"]
 
@@ -14,12 +14,12 @@ Gem::Specification.new do |spec|
     f.match(%r{^((_data|_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
-  spec.add_runtime_dependency "jekyll", "~> 3.5"
+  spec.add_runtime_dependency "jekyll", ">= 3.6", "< 5.0"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.0"
   spec.add_runtime_dependency "jekyll-feed", "~> 0.9.2"
   spec.add_runtime_dependency "jemoji", "~> 0.8"
 
-  spec.add_development_dependency "bundler", "~> 1.12"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "bundler"
+  spec.add_development_dependency "rake", "~> 12.3.3"
 end
