@@ -23,27 +23,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # -----------------------------------------------------------------
-      # 这是你缺失的关键步骤
-      # -----------------------------------------------------------------
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          # 确保你的项目根目录有一个 .ruby-version 文件
-          # 内容为 3.3.0
+          # make sure .ruby-version file is set to the desired Ruby version
           ruby-version: '3.3.0'
-
-          # 这一行会自动运行 bundle install
-          # 并安装你 Gemfile 中的 minimal-mistakes-jekyll
           bundler-cache: true
-      # -----------------------------------------------------------------
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        # 这里我们使用 bundle exec 来确保它使用了正确的 gem
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
