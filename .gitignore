@@ -6,7 +6,6 @@
 .cursor
 .cursorrules
 
-.ruby-version
 *.gem
 *.rbc
 /.config
