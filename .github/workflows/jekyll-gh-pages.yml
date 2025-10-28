@@ -1,49 +1,49 @@
-# .github/workflows/jekyll.yml
+# .github/workflows/jekyll-gh-pages.yml
 
 name: Deploy Jekyll site to Pages
 
 on:
-  # 在推送到 "master" 分支时运行
   push:
     branches: ["master"]
-
-  # 允许你从 Actions 标签页手动运行此工作流
   workflow_dispatch:
 
-# 设置 GITHUB_TOKEN 的权限，以便部署到 GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# 只允许一个并发部署，跳过在进行中的构建之间排队的运行。
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # 构建任务
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # -----------------------------------------------------------------
+      # 这是你缺失的关键步骤
+      # -----------------------------------------------------------------
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          # 这会读取你的 .ruby-version 文件
-          # 确保你的项目根目录有一个 .ruby-version 文件，内容为 3.3.0
+          # 确保你的项目根目录有一个 .ruby-version 文件
+          # 内容为 3.3.0
           ruby-version: '3.3.0'
 
+          # 这一行会自动运行 bundle install
+          # 并安装你 Gemfile 中的 minimal-mistakes-jekyll
           bundler-cache: true
+      # -----------------------------------------------------------------
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        # 使用 bundle exec 来确保它使用了你 Gemfile 中的 gem
+        # 这里我们使用 bundle exec 来确保它使用了正确的 gem
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
@@ -51,7 +51,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
-  # 部署任务
   deploy:
     environment:
       name: github-pages
