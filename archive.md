@@ -1,3 +1,5 @@
 ---
-layout: archive
+layout: posts
+title: "Archives"
+permalink: /archives/
 ---

@@ -1,18 +1,21 @@
 ---
-layout: article
+layout: single
 titles:
   en: About
   zh: 关于
   zh-Hans: 关于
   zh-Hant: 關於
 key: page-about
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
 ---
 
 ### 我们是：
 
 - 陈学凯
 - 乔斌
-- Philip 
+- Philip
 - 王莉婧
 - 徐毅
 - 杨贵
