@@ -1,4 +1,4 @@
-# Agile Hangzhou Community webiste is built by using [jekyll](https://jekyllrb.com) and [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+# Agile Hangzhou Community webiste is built by using [jekyll](https://jekyllrb.com) and [minimal-mistakes Theme](https://github.com/mmistakes/minimal-mistakes)
 
 ## License
 
