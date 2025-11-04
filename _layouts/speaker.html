@@ -1,0 +1,20 @@
+---
+layout: single
+classes: wide
+---
+
+<header style="margin-bottom: 2rem; text-align: center;">
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; margin-left: auto; margin-right: auto; display: block;">
+  {% endif %}
+
+  <h1 id="page-title" class="page__title" itemprop="headline" style="margin-top: 1rem;">
+    {{- page.title | escape -}}
+  </h1>
+
+  {% if page.bio %}
+    <p class="page__subtitle" style="font-size: 1.1rem; color: #555;">{{- page.bio -}}</p>
+  {% endif %}
+</header>
+
+{{ content }}

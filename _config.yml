@@ -313,6 +313,11 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+  - scope:
+      path: "_speakers"
+    values:
+      show_title: false
+      layout: speaker
 
 collections:
   speakers:
