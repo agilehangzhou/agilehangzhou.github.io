@@ -313,3 +313,8 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+
+collections:
+  speakers:
+    output: true
+    permalink: /speakers/:name/
