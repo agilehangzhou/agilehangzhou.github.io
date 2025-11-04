@@ -1,7 +1,7 @@
 ---
 title: 胡键
 bio: CSM/架构师/创业者
-image: "/assets/images/posts/speakers/hu_jian.jpg"
+image: "/assets/images/posts/speakers/hujian.jpg"
 ---
 
 - 入行超过15年，CSM/架构师/创业者，先后就职于中兴和SAP，现专注于工业物联网、大数据处理和区块链。具有丰富的产品研发和项目管理经验，擅长围绕工业设备构建物联网端到端解决方案，对海量设备接入、数据存储和数据分析有深刻见解。

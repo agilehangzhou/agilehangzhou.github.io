@@ -1,7 +1,7 @@
 ---
 title: 黄方(Ethan)
 bio: 敏捷实践者、教练和讲师
-image: "/assets/images/posts/speakers/huang_fang.jpg"
+image: "/assets/images/posts/speakers/huangfang.jpg"
 ---
 
 - Ethan直接参与或领导多家财富500强公司的敏捷转型(Perficient, Electronic Arts, Cisco, State Street, 凡普金科,  GroupM等), 并为更多的分布在全球14个国家和地区的团队提供过服务(JPMorgan, IBM, HP, Philips, EMC, Motorola, Nokia, Red Hat, Intel, Accenture, CapGemini, RingCentral, China Mobile, HSBC, AXA, Bank of China, China Trust, Daimler, BMW, Huawei, Lenovo, Sina等)。Ethan是ScrumAlliance认证培训师(CST，全球260 )，Path to CSP Educator, CSP, CSD, CSPO, CSM和PMP, 目前已经认证 超过9600个CSM，CSPO和A-CSM。

@@ -1,7 +1,7 @@
 ---
 title: 姜信宝
 bio: HiBlock区块链社区发起人
-image: "/assets/images/posts/speakers/jiang_xinbao.jpg"
+image: "/assets/images/posts/speakers/jiangxinbao.jpg"
 ---
 
 - HiBlock区块链社区（hiblock.one）发起人

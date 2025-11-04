@@ -1,7 +1,7 @@
 ---
 title: 杨明(Martin)
 bio: 资深敏捷教练
-image: "/assets/images/posts/speakers/yangming.png"
+image: "/assets/images/posts/speakers/yangming.jpg"
 ---
 
 - 资深敏捷教练，培训师，咨询师。Scrum国际联盟CSM，CSPO,CSP;美国项目管理协会ACP, PMP ;

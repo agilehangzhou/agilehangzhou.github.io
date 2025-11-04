@@ -1,7 +1,7 @@
 ---
 title: 刘丛
 bio: 创新敏捷教练及顾问
-image: "/assets/images/posts/speakers/li_cong.png"
+image: "/assets/images/posts/speakers/liucong.png"
 ---
 
 - 国际教练联合会 进化教练

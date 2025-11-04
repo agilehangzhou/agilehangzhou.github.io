@@ -1,7 +1,7 @@
 ---
 title: 杨瑞
 bio: 敏捷教练，创业教练，连续创业者
-image: "/assets/images/posts/speakers/yang_rui.png"
+image: "/assets/images/posts/speakers/yangrui.png"
 ---
 
 - 曾任三五互联（300051.SZ）产品技术中心总监，网龙（00777.HK）高级项目总监等职，创办的英睿信息曾主导多个APP产品的设计和开发工作，创业产品《蹓跶鼓浪屿》曾多次获得APP Store推荐，二次创业项目“搭膳”曾获100万天使投资。
