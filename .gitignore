@@ -54,7 +54,6 @@ Gemfile.lock
 package-lock.json
 _site/
 _drafts/
-_includes/
 _sass/
 .sass-cache/
 .jekyll-metadata
