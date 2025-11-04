@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /speakers/
-titles: 演讲嘉宾
+title: 演讲嘉宾
 key: page-speaker
 toc: false
 classes: wide
