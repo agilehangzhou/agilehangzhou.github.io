@@ -1,0 +1,13 @@
+{% assign sp = site.speakers | where: "name", include.name | first %}
+{% if sp %}
+<div class="speaker-card" style="text-align:center; margin:2rem 0;">
+  <a href="{{ sp.url | relative_url }}">
+    <img src="{{ sp.image | relative_url }}" alt="{{ sp.title }}" style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+  </a>
+  <h3>{{ sp.title }}</h3>
+  <p>{{ sp.bio }}</p>
+</div>
+<div class="speaker-content">
+  {{ sp.content | markdownify }}
+</div>
+{% endif %}
