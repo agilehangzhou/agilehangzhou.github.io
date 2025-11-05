@@ -58,13 +58,7 @@ VUCA时代，曾经有效的理论、工具、方法，如今变得不再有效�
 秩序如何在混沌中形成！
 ```
 
-#### 李卫红
-
-![liweihong]({{ site.baseurl }}/assets/images/posts/speakers/liweihong.jpg)
-
-- 青色进化领导力创始人
-- 曾在博世工作十多年，离开后，被后来者称为“博世敏捷的鼻祖”。
-- 在过去的10年跟随着自己内心的声音，在复杂中，逐渐走出一条简单之道！
+{% include embed-speaker.html title="li_weihong" %}
 
 ---
 ### 玩中学：敏捷团队篇（by 刘丛）
@@ -92,7 +86,6 @@ VUCA时代，曾经有效的理论、工具、方法，如今变得不再有效�
 - 统一语言 Ubiquitous Language 及限界上下文 Bounded Context 识别
 - 服务划分及定义
 
-
 {% include embed-speaker.html title="mai_yuan" %}
 
 ---
@@ -112,18 +105,12 @@ VUCA时代，曾经有效的理论、工具、方法，如今变得不再有效�
 ![Mob Programming outcome]({{ site.baseurl }}/assets/images/posts/2019/20191130-AgileTour-MobProgramming02.jpg)
 
 {% include embed-speaker.html title="wu_ke" %}
-#### 武可
-
-![wuke]({{ site.baseurl }}/assets/images/posts/speakers/wuke.jpg)
-
-- SAP敏捷教练，CSPO。他拥有超过15年的软件开发经验，为团队提供敏捷实践的教导和培训。对极限编程的实践，如测试驱动开发（TDD），单元测试，重构，遗留代码改造，等有着浓厚兴趣和长期实践。多次组织过代码道场（Coding Dojo）和Coderetreat的活动。
 
 ### 即兴表演（by 曾惠真）
 
->
+> 在这个工作坊中，参与者将通过即兴表演的方式，探索团队协作与沟通的艺术。通过角色扮演、情景模拟等形式，帮助团队成员更好地理解彼此的需求与期望，提升团队的凝聚力与创造力。
 
 {% include embed-speaker.html title="zeng_huizhen" %}
-#### 曾惠真
 
 
 ## 特约场地赞助商

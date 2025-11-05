@@ -1,4 +1,4 @@
-{% assign sp = site.speakers | where: "name", include.name | first %}
+{% assign sp = site.speakers | where: "slug", include.title | first %}
 {% if sp %}
 <div class="speaker-card" style="text-align:center; margin:2rem 0;">
   <a href="{{ sp.url | relative_url }}">
