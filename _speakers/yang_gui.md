@@ -1,7 +1,7 @@
 ---
 title: 杨贵
 bio: 敏捷教练
-image: "/assets/images/posts/speakers/yanggui.jpg"
+image: "/assets/images/posts/speakers/yanggui.jpeg"
 ---
 
 Scrum Alliance CTC, Kanban University认证KMPII，金融企业敏捷教练，软件开发技术教练，十二年敏捷项目实践经验，专注于敏捷实践落地，如Scrum, Kanban, XP ( Extreme programming)，TDD, SBE等。
