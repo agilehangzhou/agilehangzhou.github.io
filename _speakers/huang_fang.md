@@ -1,9 +1,11 @@
 ---
-title: 黄方(Ethan)
-bio: 敏捷实践者、教练和讲师
+title: Ethan Huang, 黄方
+bio: Scrum Alliance CST®，TAC 成员
 image: "/assets/images/posts/speakers/huangfang.jpg"
 ---
 
-- Ethan直接参与或领导多家财富500强公司的敏捷转型(Perficient, Electronic Arts, Cisco, State Street, 凡普金科,  GroupM等), 并为更多的分布在全球14个国家和地区的团队提供过服务(JPMorgan, IBM, HP, Philips, EMC, Motorola, Nokia, Red Hat, Intel, Accenture, CapGemini, RingCentral, China Mobile, HSBC, AXA, Bank of China, China Trust, Daimler, BMW, Huawei, Lenovo, Sina等)。Ethan是ScrumAlliance认证培训师(CST，全球260 )，Path to CSP Educator, CSP, CSD, CSPO, CSM和PMP, 目前已经认证 超过9600个CSM，CSPO和A-CSM。
+- 全球最受尊敬且最具影响力的敏捷专家与业务转型教练之一。作为 Scrum Alliance 的顶级认证培训师（Certified Scrum Trainer，CST），他是全球仅有的 14 位培训师认证委员会（Trainer Approval Committee，TAC）成员之一，负责指导并评估来自世界各地的培训师候选人。
 
-- Ethan拥有超过20年的IT行业经验，也是亚洲最早的敏捷实践者之一。他专注于传播、推广Scrum，Kanban，XP，BDD，LeSS等全新的敏捷理念和实践; 培养高效的敏捷团队和优秀的敏捷实践者；以及帮助企业决策层和管理层改变管理思想、改造管理方法使组织具备敏捷理念和文化。他的服务范围覆盖14个国家和地区: 爱尔兰，英国，捷克，沙特阿拉伯，埃及，印度，新加坡，马来西亚，斯里兰卡，中国大陆，香港，台湾，澳大利亚和美国。
+- 在他的指导下，已有超过 17,000 名专业人士获得 Scrum Alliance 认证。Ethan 以其生动、互动的引导风格和独特的幽默感而广受赞誉。
+
+- 作为一名业务转型教练，Ethan 将深厚的理论知识与丰富的实战经验相结合，帮助组织加速实现业务成功。他将敏捷实践与业务创新（Business Innovation）、设计思维（Design Thinking）、产品思维（Product Thinking）和数字化（Digitalization）结合，帮助组织适应高速变化的复杂商业环境，服务的行业涵盖快速消费品（FMCG）、金融、汽车、制造和制药等多个领域。
