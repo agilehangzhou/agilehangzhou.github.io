@@ -1,7 +1,7 @@
 ---
 title: 姚林霞
 bio: 博克软件 Product Owner
-image: "/assets/images/posts/speakers/.jpg"
+image: "/assets/images/posts/speakers/yaolinxia.jpg"
 ---
 
 - 十年以上大型敏捷项目团队实践推广经验
