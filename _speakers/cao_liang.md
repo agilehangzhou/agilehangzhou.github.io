@@ -1,6 +1,6 @@
 ---
 title: 曹靓
-bio: 
+bio: 大众酷翼Cariad车联网云端系统工程
 image: "/assets/images/posts/speakers/caoliang.jpg"
 ---
 
